@@ -84,9 +84,9 @@ import {maska} from "maska";
 export default {
   data() {
     return {
-      name: '4fdsm',
-      tel: '+7 (143) 243-24-32',
-      email: 'afewgfwegw@gmail.com',
+      name: '',
+      tel: '',
+      email: '',
       required: false
     }
   },
